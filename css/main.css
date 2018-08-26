@@ -1,0 +1,7 @@
+/*5. In HTML and CSS: Create an element to display the map. Make sure to your element has some width and height so there is 'space' for the map.
+*/
+
+#googleMap {
+	width:500px;
+	height:500px;
+}
